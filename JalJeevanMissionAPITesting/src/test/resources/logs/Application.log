@@ -1,0 +1,40 @@
+07/06/2022 12:31:18 devpinoyLogger Launching Chrome
+07/06/2022 12:31:26 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='email']] entered value as : admin@gmail.com
+07/06/2022 12:31:26 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='password']] entered value as : 12345678
+07/06/2022 12:31:38 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@type = 'submit']]
+07/06/2022 12:31:38 devpinoyLogger Login Successful
+07/06/2022 12:31:40 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//button[@type='submit']]
+07/06/2022 12:31:40 devpinoyLogger Company Unit Selected
+07/06/2022 12:31:40 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/a]
+07/06/2022 12:31:40 devpinoyLogger Clicking on Masters
+07/06/2022 12:31:47 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/ul/li[1]/a]
+07/06/2022 12:31:47 devpinoyLogger Clicking on Product Master
+07/06/2022 12:31:48 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="page-title"]/div/div[2]/button]
+07/06/2022 12:31:48 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@id='product_name']] entered value as : P Test FP
+07/06/2022 12:31:48 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@name='product_code']] entered value as : PT
+07/06/2022 12:31:48 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="add-new-product-form"]/div/div[2]/div[5]/div/div/label[2]]
+07/06/2022 12:31:49 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: /html/body/div[3]/div/div/div[3]/button[2]]
+07/06/2022 12:31:59 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: /html/body/div[3]/div/div/div[3]/button[1]'
+07/06/2022 12:32:10 devpinoyLogger Product Code has already been taken.
+07/06/2022 12:32:10 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/a]
+07/06/2022 12:32:10 devpinoyLogger Clicking on Masters
+07/06/2022 12:32:11 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/ul/li[1]/a]
+07/06/2022 12:32:11 devpinoyLogger Clicking on Product Master
+07/06/2022 12:32:12 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']]
+07/06/2022 12:32:12 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']] entered value as : P Test FP
+07/06/2022 12:32:12 devpinoyLogger Searched record is found in Product Master
+07/06/2022 12:32:12 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/a]
+07/06/2022 12:32:12 devpinoyLogger Clicking on Masters
+07/06/2022 12:32:14 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/ul/li[1]/a]
+07/06/2022 12:32:14 devpinoyLogger Clicking on Product Master
+07/06/2022 12:32:14 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']]
+07/06/2022 12:32:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']] entered value as : P Test FP
+07/06/2022 12:32:14 devpinoyLogger Searched record is found in Product Master
+07/06/2022 12:32:14 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@class='btn btn-default btn-icon btn-active-primary dropdown-toggle dropdown-toggle-icon']]
+07/06/2022 12:32:14 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="product-table"]/tbody/tr/td[6]/div/ul/li[1]/a]
+07/06/2022 12:32:15 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@id='product_name']] entered value as :  updated
+07/06/2022 12:32:15 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@name='product_code']] entered value as : 01
+07/06/2022 12:32:15 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="add-new-product-form"]/div/div[2]/div[5]/div/div/label[1]]
+07/06/2022 12:32:15 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: /html/body/div[3]/div/div/div[3]/button[2]]
+07/06/2022 12:32:15 devpinoyLogger Product details updated successfully
+07/06/2022 12:32:18 devpinoyLogger test execution completed !!!

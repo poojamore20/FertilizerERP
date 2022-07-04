@@ -1,0 +1,105 @@
+12:31:18,612 DEBUG devpinoyLogger:69 - Launching Chrome
+12:31:26,624 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='email']] entered value as : admin@gmail.com
+12:31:26,707 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='password']] entered value as : 12345678
+12:31:38,599 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@type = 'submit']]
+12:31:38,614 DEBUG devpinoyLogger:38 - Login Successful
+12:31:38,642 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:31:38,643 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:31:38,645 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:31:38,647 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:31:38,647 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:31:40,255 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//button[@type='submit']]
+12:31:40,266 DEBUG devpinoyLogger:32 - Company Unit Selected
+12:31:40,267 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:31:40,268 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:31:40,268 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:31:40,269 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:31:40,270 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:31:40,489 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/a]
+12:31:40,499 DEBUG devpinoyLogger:36 - Clicking on Masters
+12:31:47,907 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/ul/li[1]/a]
+12:31:47,920 DEBUG devpinoyLogger:43 - Clicking on Product Master
+12:31:48,001 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="page-title"]/div/div[2]/button]
+12:31:48,702 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@id='product_name']] entered value as : P Test FP
+12:31:48,771 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@name='product_code']] entered value as : PT
+12:31:48,972 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="add-new-product-form"]/div/div[2]/div[5]/div/div/label[2]]
+12:31:49,050 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: /html/body/div[3]/div/div/div[3]/button[2]]
+12:31:59,874 DEBUG devpinoyLogger:91 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: /html/body/div[3]/div/div/div[3]/button[1]'
+12:32:10,061 DEBUG devpinoyLogger:48 - Product Code has already been taken.
+12:32:10,061 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:10,071 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:10,072 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:10,072 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:10,072 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:10,200 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/a]
+12:32:10,211 DEBUG devpinoyLogger:36 - Clicking on Masters
+12:32:11,908 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/ul/li[1]/a]
+12:32:11,918 DEBUG devpinoyLogger:43 - Clicking on Product Master
+12:32:12,012 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']]
+12:32:12,104 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']] entered value as : P Test FP
+12:32:12,160 DEBUG devpinoyLogger:70 - Searched record is found in Product Master
+12:32:12,162 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:12,162 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:12,163 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:12,163 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:12,163 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:12,317 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/a]
+12:32:12,326 DEBUG devpinoyLogger:36 - Clicking on Masters
+12:32:14,217 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="mainnav-menu"]/li[5]/ul/li[1]/a]
+12:32:14,228 DEBUG devpinoyLogger:43 - Clicking on Product Master
+12:32:14,310 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']]
+12:32:14,400 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//input[@name='search']] entered value as : P Test FP
+12:32:14,449 DEBUG devpinoyLogger:70 - Searched record is found in Product Master
+12:32:14,545 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@class='btn btn-default btn-icon btn-active-primary dropdown-toggle dropdown-toggle-icon']]
+12:32:14,616 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="product-table"]/tbody/tr/td[6]/div/ul/li[1]/a]
+12:32:15,284 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@id='product_name']] entered value as :  updated
+12:32:15,371 DEBUG devpinoyLogger:99 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: .//*[@name='product_code']] entered value as : 01
+12:32:15,531 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: //*[@id="add-new-product-form"]/div/div[2]/div[5]/div/div/label[1]]
+12:32:15,599 DEBUG devpinoyLogger:91 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (b6d6000bb3bc49588525fc74096ddabb)] -> xpath: /html/body/div[3]/div/div/div[3]/button[2]]
+12:32:15,608 DEBUG devpinoyLogger:101 - Product details updated successfully
+12:32:15,609 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:15,609 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:15,611 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:15,612 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:15,612 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:16,764 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:16,764 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:16,765 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:16,766 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:16,766 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:16,834 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:16,834 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:16,835 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:16,835 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:16,835 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:17,797 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:17,797 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:17,797 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:17,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:17,798 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:17,839 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:17,840 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:17,840 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:17,841 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:17,841 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:17,889 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:17,890 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:17,891 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:17,892 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:17,892 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:17,933 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:17,933 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:17,934 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:17,934 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:17,935 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:17,987 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:17,988 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:17,989 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:17,989 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:17,990 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:18,046 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:32:18,046 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:32:18,047 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:32:18,047 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:32:18,047 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:32:18,795 DEBUG devpinoyLogger:163 - test execution completed !!!
